@@ -18,10 +18,10 @@ benchmark to compare the others further down the list to.
 
 ASSUMPTIONS
 
-Input file is always a .csv file
-Max team size will always be 11
-Cost and Points columns will always be int
-Host computer has pandas installed
+1. Input file is always a .csv file
+2. Max team size will always be 11
+3. Cost and Points columns will always be int
+4. Host computer has pandas installed
 
 POTENTIAL IMPROVEMENTS
 
