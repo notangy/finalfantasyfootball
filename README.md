@@ -17,6 +17,7 @@ benchmark to compare the others further down the list to.
 5. Write teamSelect dataframe to new .csv file
 
 ASSUMPTIONS
+
 Input file is always a .csv file
 Max team size will always be 11
 Cost and Points columns will always be int
