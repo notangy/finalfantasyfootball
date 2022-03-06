@@ -21,6 +21,7 @@ ASSUMPTIONS
 Input file is always a .csv file
 Max team size will always be 11
 Cost and Points columns will always be int
+Host computer has pandas installed
 
 POTENTIAL IMPROVEMENTS
 
